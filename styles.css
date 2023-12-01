@@ -1,0 +1,51 @@
+/* Reset  */
+
+a{text-decoration: none;
+    color: rgb(255, 255, 255);
+   }
+
+ul{list-style: none;
+    margin-left: Orem;
+   }
+
+/* Codigo propio  */
+
+nav {background-color: rgb(33, 37, 243);
+    min-height:0rem;
+    height: 5rem;
+    /*position:fixed le hace que permanezca visible aunque tires para abajo*/
+    position: fixed;
+    width: 100%;
+    top: 0;
+   }
+nav p {color: aliceblue;
+font-size: 1rem;
+display:flex;
+align-items:start;
+justify-content:start;}
+
+ul{ width: 100%;
+    display:flex;
+    align-items:start;
+    justify-content:space-evenly;
+    min-height: 2rem;
+    height: 2rem;
+   }
+   a{width: 6rem;
+    color: azure;
+    padding: 0.1rem;
+    display: block;
+    margin-left: 0.5rem;
+    font-size: 1rem;
+    text-align: center;
+    border-radius: 1rem;
+    transition: 500ms;
+   }
+   header div img {width: 10%;
+                   height: 10%;
+                   display:flex;
+                   align-items:center;
+                   flex: center;
+                  
+                }
+    header{background-color: aquamarine;}

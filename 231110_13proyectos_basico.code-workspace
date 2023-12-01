@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../231110_13proyectos_basico"
+		},
+		{
+			"path": "../231114_Proyecto_basico"
+		},
+		{
+			"path": "../231116_Proyecto_Basico_2"
+		},
+		{
+			"path": "../231120_Proyecto_Basico_3"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "equipo"
+	}
+}
